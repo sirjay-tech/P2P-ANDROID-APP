@@ -1,0 +1,6 @@
+{
+  "name": "P2P Inventory Ledger",
+  "description": "High-end native Android application for tracking P2P inventory, wallets, assets, and buy/sell trade entry.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
